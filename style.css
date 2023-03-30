@@ -29,6 +29,8 @@ body {
   left: 50%;
   transform: translate(-50%,-50%);
   border-radius: 15px;
+  transition: .3s;
+
 }
 @media (max-width: 767px) {
   .desk-quote {
