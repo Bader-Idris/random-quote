@@ -33,11 +33,17 @@ body {
 
 }
 @media (max-width: 767px) {
+  .container {
+    width: 400px;
+  }
   .desk-quote {
     display: none;
   }
 }
 @media (min-width: 767px) {
+  .container {
+    width: 500px;
+  }
   .mob-quote {
     display: none;
   }
