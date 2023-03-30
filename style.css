@@ -73,6 +73,8 @@ body {
   position: absolute;
   bottom: -25px;
   cursor: pointer;
+  -webkit-tap-highlight-color: transparent;
+  -ms-tap-highlight-color: transparent;
 }
 .dice:hover {
   box-shadow: 0 0 15px 5px var(--Neon-Green);
@@ -85,4 +87,6 @@ body {
   top: 50%;
   transform: translate(-50%, -50%);
   position: absolute;
+  -webkit-tap-highlight-color: transparent;
+  -ms-tap-highlight-color: transparent;
 }
