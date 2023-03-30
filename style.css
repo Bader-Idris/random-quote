@@ -64,6 +64,7 @@ body {
   background-color: var(--Neon-Green);
   position: absolute;
   bottom: -25px;
+  cursor: pointer;
 }
 .dice:hover {
   box-shadow: 0 0 15px 5px var(--Neon-Green);
